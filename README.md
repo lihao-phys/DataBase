@@ -1,8 +1,5 @@
-# https://github.com/lihao-phys/blog
+This is LiHao's GitHub database.
 
-This is LiHao's blog website.
-
-这是李浩的博客网站。
+这是李浩的GitHub数据库。
 
 随便写写东西
-
